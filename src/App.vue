@@ -117,7 +117,7 @@ export default {
       this.resetForm()
     },
     resetForm() {
-      this.painting = {
+      this.statue = {
         id: null,
         person: '',
         height: '',
